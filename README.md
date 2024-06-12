@@ -58,15 +58,15 @@ If you find EPCL-JUDA useful in your research, please cite our work:
 
 
 ## Contact 🦄
-
 If you have any questions or suggestions, feel free to contact:
-
+- Lijian Li [(mc35305@umac.mo)](mailto:mc35305@umac.mo)
+  [![Mail](https://img.shields.io/badge/Lijian_Li-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:mc35305@umac.mo)
+  [![Google Scholar](https://img.shields.io/badge/Lijian_Li-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Pe_tlDMAAAAJ)
+  [![ResearchGate](https://img.shields.io/badge/Lijian_Li-00CCBB?logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Lijian-Li-2)
+  
 - Yuanpeng He [(heyuanpeng@stu.pku.edu.cn)](mailto:heyuanpeng@stu.pku.edu.cn)
   [![Outlook](https://img.shields.io/badge/Yuanpeng_He-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:heyuanpeng@stu.pku.edu.cn)
   [![Google Scholar](https://img.shields.io/badge/Yuanpeng_He-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=HaefBCQAAAAJ)
   [![ResearchGate](https://img.shields.io/badge/Yuanpeng_He-00CCBB?logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Yuanpeng-He)
 
-- Lijian Li [(mc35305@umac.mo)](mailto:mc35305@umac.mo)
-  [![Mail](https://img.shields.io/badge/Lijian_Li-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:mc35305@umac.mo)
-  [![Google Scholar](https://img.shields.io/badge/Lijian_Li-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Pe_tlDMAAAAJ)
-  [![ResearchGate](https://img.shields.io/badge/Lijian_Li-00CCBB?logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Lijian-Li-2)
+

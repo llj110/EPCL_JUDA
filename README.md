@@ -1,11 +1,9 @@
-# EPCL_JUDA
-
 [//]: # (# Efficient Prototype Consistency in Semi-Supervised Medical Image Segmentation via Joint Uncertainty and Data Augmentation)
 <div align="center">
   <h1>Efficient Prototype Consistency in Semi-Supervised Medical Image Segmentation via Joint Uncertainty and Data Augmentation</h1>
 </div>
 
-Implementation of [Towards Realistic Long-tailed Semi-supervised Learning in an Open World](https://arxiv.org).
+Implementation of [Efficient Prototype Consistency in Semi-Supervised Medical Image Segmentation via Joint Uncertainty and Data Augmentation](https://arxiv.org).
 
 Recently, prototype learning has emerged in semi-supervised medical image segmentation and achieved remarkable performance. However, the scarcity of labeled data limits the expressiveness of prototypes in previous methods, potentially hindering the complete representation of prototypes for class embedding. To overcome this issue, we propose an efficient prototype consistency learning via joint uncertainty quantification and data augmentation (EPCL-JUDA) to enhance the semantic expression of prototypes based on the framework of Mean-Teacher. The concatenation of original and augmented labeled data is fed into the teacher network to generate expressive prototypes. Then, a joint uncertainty quantification method is devised to optimize pseudo-labels and generate reliable prototypes for original and augmented unlabeled data separately. High-quality global prototypes for each class are formed by fusing labeled and unlabeled prototypes, optimizing the distribution of features used in consistency learning. Notably, a prototype network is proposed to reduce a high memory requirement brought by the introduction of augmented data. Extensive experiments on Left Atrium, Pancreas-CT, Type B Aortic Dissection datasets demonstrate EPCL-JUDA's superiority over previous state-of-the-art approaches, confirming the effectiveness of our framework. 
 
@@ -13,16 +11,12 @@ Recently, prototype learning has emerged in semi-supervised medical image segmen
 🚩 **News (2024.06.12)** We have uploaded the code EPCL_JUDA code 🥳.
 
 ## Overview 💜
-This is the official code implementation project for paper **"Towards Realistic Long-tailed Semi-supervised Learning in an Open World"**. The code implementation refers
-to [<img src="https://img.shields.io/badge/ECCV2022-a?style=for-the-badge&logo=github&logoColor=%23121011&label=OpenLDN&color=%23121011" height="20">](https://github.com/nayeemrizve/OpenLDN)
-and [<img src="https://img.shields.io/badge/CVPR2023-a?style=for-the-badge&logo=github&logoColor=%23121011&label=ACR&color=%23121011" height="20">](https://github.com/Gank0078/ACR)
-. Thanks very much
-for the contribution of [<img src="https://img.shields.io/badge/ECCV2022-a?style=for-the-badge&logo=github&logoColor=%23121011&label=OpenLDN&color=%23121011" height="20">](https://github.com/nayeemrizve/OpenLDN) and [<img src="https://img.shields.io/badge/CVPR2023-a?style=for-the-badge&logo=github&logoColor=%23121011&label=ACR&color=%23121011" height="20">](https://github.com/Gank0078/ACR)
+This is the official code implementation project for paper **"Efficient Prototype Consistency in Semi-Supervised Medical Image Segmentation via Joint Uncertainty and Data Augmentation"**. The code implementation refers to UPCoL(https://github.com/VivienLu/UPCoL/tree/main). Thanks very much for the contribution of UPCoL(https://github.com/VivienLu/UPCoL/tree/main).
  to code structure of our paper **"Towards Realistic Long-tailed Semi-supervised Learning in an Open World"**.
 
 ## Prerequisites  💻
 ### Requirements and Dependencies:
-Here we list our some important requirements and dependencies (Details can be found in [environment.yml](environment.yml)).
+Here we list our some important requirements and dependencies.
  - Linux: Ubuntu 22.04 LTS
  - GPU: RTX 4090
  - CUDA: 12.3

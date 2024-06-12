@@ -11,8 +11,7 @@ Recently, prototype learning has emerged in semi-supervised medical image segmen
 🚩 **News (2024.06.12)** We have uploaded the code EPCL_JUDA code 🥳.
 
 ## Overview 💜
-This is the official code implementation project for paper **"Efficient Prototype Consistency in Semi-Supervised Medical Image Segmentation via Joint Uncertainty and Data Augmentation"**. The code implementation refers to UPCoL(https://github.com/VivienLu/UPCoL/tree/main). Thanks very much for the contribution of UPCoL(https://github.com/VivienLu/UPCoL/tree/main).
- to code structure of our paper **"Towards Realistic Long-tailed Semi-supervised Learning in an Open World"**.
+This is the official code implementation project for paper **"Efficient Prototype Consistency in Semi-Supervised Medical Image Segmentation via Joint Uncertainty and Data Augmentation"**. The code implementation refers to UPCoL(https://github.com/VivienLu/UPCoL/tree/main). Thanks very much for the contribution of UPCoL(https://github.com/VivienLu/UPCoL/tree/main) to code structure of our paper **"Efficient Prototype Consistency in Semi-Supervised Medical Image Segmentation via Joint Uncertainty and Data Augmentation"**.
 
 ## Prerequisites  💻
 ### Requirements and Dependencies:

@@ -38,7 +38,7 @@ exp='LA'
 data_dir='../../../Datasets/LA_dataset'
 list_dir='../datalist/LA'
    
-python train.py --exp $exp --data_dir $data_dir --list_dir $list_dir --exp $exp
+python train_JUDA.py --exp $exp --data_dir $data_dir --list_dir $list_dir --exp $exp
 ```
 
 ## Citation ✨

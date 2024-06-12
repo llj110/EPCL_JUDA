@@ -48,8 +48,8 @@ If you find EPCL-JUDA useful in your research, please cite our work:
 ```bibtex
 
 @misc{ROLSSL,
-      title={Towards Realistic Long-tailed Semi-supervised Learning in an Open World}, 
-      author={Yuanpeng He, Lijian Li, Tianxiang Zhan, Chi-Man Pun, Wenpin Jiao and Zhi Jin},
+      title={Efficient Prototype Consistency in Semi-Supervised Medical Image Segmentation via Joint Uncertainty and Data Augmentation}, 
+      author={Lijian Li, Yuanpeng He, Chi-Man Pun},
       year={2024},
       journal={arXiv}
 }
